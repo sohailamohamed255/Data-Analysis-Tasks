@@ -1,4 +1,4 @@
-’ve successfully analyzed your uploaded Jupyter notebooks. Here’s a summary of your tasks and what each notebook entails:
+I’ve successfully analyzed your uploaded Jupyter notebooks. Here’s a summary of your tasks and what each notebook entails:
 
 Description for Data Analysis Tasks:
 Logistic Regression Analysis:
